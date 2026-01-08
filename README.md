@@ -1,0 +1,1 @@
+This project is a simple platform game made using HTML and JavaScript with the p5.js and p5play libraries. You control a frog character that can move left and right and jump on platforms while gravity pulls it downward. The goal is to jump across lilypads, collect points, and reach the top platform to win the game.
